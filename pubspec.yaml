@@ -1,8 +1,6 @@
 name: Surprise
 description: An absolute bare-bones web app.
 version: 0.0.1
-#homepage: https://www.example.com
-#author: Alexander Spinks_2 <email@example.com>
 
 environment:
   sdk: '>=1.20.1 <2.0.0'
